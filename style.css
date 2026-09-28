@@ -1,0 +1,145 @@
+*{
+    margin: 0%; /*espaço externo*/
+    padding: 0%; /*espaço interno*/
+    box-sizing: border-box; /* todas as caixas que vai passar o tamanho*/
+}
+
+
+header{
+    text-align: center;
+    background-color: #5197ad;
+}
+
+a{
+    margin: 50px;
+}
+
+#pginicial{
+    margin: 30px;
+    padding: 1px;
+    text-align: center;
+    background-color: #c8d1d9;
+    font-size: 20px;
+    border-radius: 50PX;
+}
+
+#personagens{
+    margin: 30px; 
+    padding: 1px;
+    text-align: center;
+    background-color: #c8d1d9;
+    font-size: 20px;
+    border-radius: 50PX;
+}
+
+#temp{
+    margin: 30px;
+    padding: 1px;
+    text-align: center;
+    background-color: #c8d1d9;
+    font-size: 20px;
+    border-radius: 50PX;
+}
+
+#sinopse{
+    width: 100%;
+    height: 400px;
+    background-image: url(./imagens/banner.png);
+    background-position: top;
+    background-size: cover;
+}
+
+.camilly{
+    padding: 150px;
+    text-align: center;
+    width: 800PX;
+   color: white;
+    border-radius: 800PX; height: 10px;
+
+}
+
+    #personagem{
+        background-color: #465d6e;
+    }
+
+img{width: 150px;
+
+}
+
+.card{
+    width: 400px;
+    height: 250px;
+    background-color:#c8d1d9;
+    margin: 15px;
+    display: inline-block;
+    color:black;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#Temporadas Favoritos{
+width: 100%;
+height: 400px;
+background-color:#cadce1 ;
+}
+
+.card-temporadas{
+display: inline-block;
+width: 450px;
+height: 250px;
+background-color: #2e454d;
+border-radius:  40px; 
+margin-left: 150px;
+text-align: center;
+}
+
+#Temporadas Favoritos{
+    background-color: #cadce1;
+}
+
+footer{
+    padding-top: 10px;
+    height: 90px;
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+}
+
+#john{
+height:210px;
+width: 219px;
+border-radius:  10px
+}
+
+#sarah{
+    height:211px;
+    width: 210px;
+    border-radius:  10px
+}
+
+#jj{
+    height:210px;
+    width: 190px;
+    border-radius:  10px
+}
+
+
+
+#temp1{
+    height:220px;
+    width: 240px;
+    border-radius:  10px
+}
+
+#temp2{
+    height:220px;
+    width: 220px;
+    border-radius:  10px
+
+}
+
+#banner{
+    height:90px;
+    width: 350px;
+}
