@@ -1,0 +1,163 @@
+*{
+    margin: 0%; /*espaço externo*/
+    padding: 0%; /*espaço interno*/
+    box-sizing: border-box; /* todas as caixas que vai passar o tamanho*/
+}
+
+
+header{
+    text-align: center;
+    background-color: #5197ad;
+}
+
+a{
+    margin: 50px;
+}
+
+#pginicial{
+    margin: 30px;
+    padding: 1px;
+    text-align: center;
+    background-color: #c8d1d9;
+    font-size: 20px;
+    border-radius: 50PX;
+}
+
+#personagens{
+    margin: 30px; 
+    padding: 1px;
+    text-align: center;
+    background-color: #c8d1d9;
+    font-size: 20px;
+    border-radius: 50PX;
+}
+
+#temp{
+    margin: 30px;
+    padding: 1px;
+    text-align: center;
+    background-color: #c8d1d9;
+    font-size: 20px;
+    border-radius: 50PX;
+}
+
+.camilly{
+    padding: 150px;
+    text-align: center;
+    width: 800PX;
+   color: white;
+    border-radius: 800PX; height: 10px;
+
+}
+
+.card{
+    width: 400px;
+    height: 280px;
+    background-color:#c8d1d9;
+    margin: 15px;
+    display: inline-block;
+    color:black;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow:5px 5px 15px 5px rgba(186,229,255,0.2);
+    border: #5197ad solid 3px;
+    }
+
+img{width: 150px;}
+
+section{
+    background-color: #2e454d;
+}
+    
+#john{
+    height:210px;
+    width: 228px;
+    border-radius:  10px
+
+    }
+
+    #sarah{
+        height:211px;
+        width: 210px;
+        border-radius:  10px
+    }
+
+    #jj{
+        height:210px;
+        width: 190px;
+        border-radius:  10px
+    }
+
+    #Kiara{
+        height:210px;
+        width: 250px;
+        border-radius:  10px
+    }
+
+    #Cleo{
+        height:210px;
+        width: 220px;
+        border-radius:  10px
+    }
+
+    #Pope{
+        height:210px;
+        width: 205px;
+        border-radius:  10px
+    }
+
+    #Rafe{
+        height:210px;
+        width: 220px;
+        border-radius:  10px
+    }
+
+    #Ward{
+        height:210px;
+        width: 220px;
+        border-radius:  10px
+    }
+
+    #Sofia{
+        height:210px;
+        width: 220px;
+        border-radius:  10px
+
+    }
+
+    #banner{
+        height: 90px;
+        width: 350px;
+    }
+
+    #paragrafo{
+        background-color:rgb(132, 204, 245);
+        border-radius: 10px;
+        font-family:Georgia, 'Times New Roman', Times, serif
+
+    }
+    p{
+        background-color:rgb(49, 166, 245);
+        border-radius: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    div{
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+        justify-content: center;
+      
+    }
+
+    h3{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    footer{
+        padding-top: 10px;
+        height: 90px;
+        background-color: black;
+        color: #ffffff;
+        text-align: center;
+        font-size: 25px;}
